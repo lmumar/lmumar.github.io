@@ -4,12 +4,35 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Experienced software developer with over 10 years of experience developing enterprise, mobile and web applications. Possesses deep working knowledge in web development using Ruby on Rails and Node.js, and advanced working knowledge in mobile application development in iOS. Heavily involved in all phases of development from requirements gathering, analysis, design, testing, implementation and maintenance.
 
-### More Information
+### Work Experience
 
-A place to include any other types of information that you'd like to include about yourself. 
+* Caresharing Inc
+* United Overseas Bank - Singapore
+* Rameses Systems
+* University of Cebu
+
+#### Hardware
+* Apple
+* IBM PC
+* AS/400
+
+#### Operating System
+* OS X
+* Ubuntu Linux
+* OS/400
+* Windows
+
+#### Languages
+* Ruby
+* Swift
+* Objective-C
+* JavaScript
+* Java
+* C#
+* CL/400 & Cobol/400
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kuling.guwapo@gmail.com](mailto:kuling.guwapo@gmail.com)
