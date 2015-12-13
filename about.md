@@ -9,6 +9,7 @@ Experienced software developer with over 10 years of experience developing enter
 ### Work Experience
 
 * Caresharing Inc
+* Assembla
 * United Overseas Bank - Singapore
 * Rameses Systems
 * University of Cebu
