@@ -8,11 +8,11 @@ Experienced software developer with over 10 years of experience developing enter
 
 ### Work Experience
 
-* [Caresharing Inc](www.caresharing.com)
-* [Assembla](www.assembla.com)
-* [United Overseas Bank - Singapore](uob.com.sg)
-* [Rameses Systems](www.ramesesinc.com)
-* [University of Cebu](uc.edu.ph)
+* [Caresharing Inc](http://www.caresharing.com)
+* [Assembla](http://www.assembla.com)
+* [United Overseas Bank - Singapore](http://uob.com.sg)
+* [Rameses Systems](http://www.ramesesinc.com)
+* [University of Cebu](http://uc.edu.ph)
 
 #### Hardware
 * Apple
