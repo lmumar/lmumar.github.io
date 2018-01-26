@@ -38,7 +38,7 @@ error: Could not compile `playground`.
 To learn more, run the command again with --verbose.
 ```
 
-However you can trick the borrower checker by using a reference to a reference instead. So the code below will compile successfully in rust.
+However you can trick the borrower checker by using a reference to a reference instead. So the code below will compile successfully and run in rust.
 ```
 fn main() {
     let mut x = 10;
@@ -48,4 +48,17 @@ fn main() {
     let irx = &rx;
     println!("irx={}", irx);
 }
+```
+
+output:
+```
+Standard Error
+
+   Compiling playground v0.0.1 (file:///playground)
+    Finished release [optimized] target(s) in 0.54 secs
+     Running `target/release/playground`
+
+Standard Output
+
+irx=100
 ```
