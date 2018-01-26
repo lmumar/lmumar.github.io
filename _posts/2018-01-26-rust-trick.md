@@ -3,8 +3,6 @@ layout: post
 title: Rust - Weird trick #1
 ---
 
-### Rust - Weird trick #1
-
 In Rust you cannot create another reference to a value if you already have a mutable reference to it. Example:
 ```
 fn main() {
