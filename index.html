@@ -2,17 +2,53 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">    
-      
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+<article class="page">
 
-      <div class="entry">
-        {{ post.content | truncatewords:40}}
-      </div>
-      
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+  <h1>About</h1>
+
+  <div class="entry">
+    <p>Experienced software developer with over 10 years of experience developing enterprise, mobile and web applications. Possesses deep working knowledge in web development using Ruby on Rails and Node.js, and advanced working knowledge in mobile application development in iOS. Heavily involved in all phases of development from requirements gathering, analysis, design, testing, implementation and maintenance.</p>
+
+    <h3 id="work-experience">Work Experience</h3>
+
+    <ul>
+      <li><a href="http://www.caresharing.com">Caresharing Inc</a></li>
+      <li>Newmedia (personal project)</li>
+      <li><a href="http://www.skooteo.com">Skooteo</a></li>
+      <li><a href="http://www.assembla.com">Assembla</a></li>
+      <li><a href="http://uob.com.sg">United Overseas Bank - Singapore</a></li>
+      <li><a href="http://www.ramesesinc.com">Rameses Systems</a></li>
+      <li><a href="http://uc.edu.ph">University of Cebu</a></li>
+    </ul>
+
+    <h4 id="hardware">Hardware</h4>
+    <ul>
+      <li>Apple</li>
+      <li>IBM PC</li>
+      <li>AS/400 (iSeries)</li>
+    </ul>
+
+    <h4 id="operating-system">Operating System</h4>
+    <ul>
+      <li>macOS</li>
+      <li>Ubuntu Linux</li>
+      <li>OS/400</li>
+      <li>Windows</li>
+    </ul>
+
+    <h4 id="languages">Languages</h4>
+    <ul>
+      <li>Ruby</li>
+      <li>Swift</li>
+      <li>Objective-C</li>
+      <li>JavaScript</li>
+      <li>Java</li>
+      <li>C++</li>
+      <li>CL/400 &amp; Cobol/400</li>
+    </ul>
+
+    <h3 id="contact-me">Contact me</h3>
+
+    <p><a href="mailto:kuling.guwapo@gmail.com">kuling.guwapo@gmail.com</a></p>
+  </div>
+</article>
